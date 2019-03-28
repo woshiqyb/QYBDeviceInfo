@@ -1,0 +1,2 @@
+# QYBDeviceInfo
+竖屏常规状态下各设备上statusBar、navigationBar、tabBar的高度，也提供各设备safeAreaInsets的topInsets和bottomInsets的大小，方便竖屏App自定义这些控件和UI布局。
